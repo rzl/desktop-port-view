@@ -124,11 +124,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
+    <ClInclude Include="PortManager.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="肉丸子桌面端口管理工具.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="PortManager.cpp" />
     <ClCompile Include="肉丸子桌面端口管理工具.cpp" />
   </ItemGroup>
   <ItemGroup>
